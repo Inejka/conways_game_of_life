@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/inejka/CLionProjects/conways_game_of_life/include/button.h
+../main.h
+/home/inejka/CLionProjects/conways_game_of_life/main.h
+
+/home/inejka/CLionProjects/conways_game_of_life/include/do_button.cpp
+do_button.h
+/home/inejka/CLionProjects/conways_game_of_life/include/do_button.h
+windows.h
+/home/inejka/CLionProjects/conways_game_of_life/include/windows.h
+
+/home/inejka/CLionProjects/conways_game_of_life/include/do_button.h
+../main.h
+/home/inejka/CLionProjects/conways_game_of_life/main.h
+
+/home/inejka/CLionProjects/conways_game_of_life/include/game_of_life.h
+
+/home/inejka/CLionProjects/conways_game_of_life/include/windows.h
+../main.h
+/home/inejka/CLionProjects/conways_game_of_life/main.h
+button.h
+/home/inejka/CLionProjects/conways_game_of_life/include/button.h
+game_of_life.h
+/home/inejka/CLionProjects/conways_game_of_life/include/game_of_life.h
+
+/home/inejka/CLionProjects/conways_game_of_life/main.h
+iostream
+-
+SFML/Graphics.hpp
+-
+SFML/Audio.hpp
+-
+vector
+-
+algorithm
+-
+string
+-
+
