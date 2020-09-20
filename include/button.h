@@ -18,7 +18,7 @@ class button {
     sf::Font its_font;
     sf::Text its_text;
 public:
-    button(int, int, int, int, std::string, std::string, void(std::vector<windows *> *, windows *), int);
+    button(int, int, int, int, std::string, void(std::vector<windows *> *, windows *), int);
 
     void draw(windows *);
 

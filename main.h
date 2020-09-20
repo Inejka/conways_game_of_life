@@ -11,5 +11,6 @@
 #include <vector>
 #include <algorithm>
 #include <string>
+#include <map>
 
 #endif //CONWAYS_GAME_OF_LIFE_MAIN_H

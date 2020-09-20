@@ -94,6 +94,12 @@
 		<Unit filename="/home/inejka/CLionProjects/conways_game_of_life/include/do_button.h">
 			<Option target="conways_game_of_life"/>
 		</Unit>
+		<Unit filename="/home/inejka/CLionProjects/conways_game_of_life/include/entry_field.cpp">
+			<Option target="conways_game_of_life"/>
+		</Unit>
+		<Unit filename="/home/inejka/CLionProjects/conways_game_of_life/include/entry_field.h">
+			<Option target="conways_game_of_life"/>
+		</Unit>
 		<Unit filename="/home/inejka/CLionProjects/conways_game_of_life/include/game_of_life.cpp">
 			<Option target="conways_game_of_life"/>
 		</Unit>

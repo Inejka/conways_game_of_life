@@ -13,7 +13,7 @@ main_window::~main_window() {
 }
 
 void main_window::init() {
-    list_of_windows.push_back(new main_window_otd(sf::VideoMode(600, 600), "Test"));
+    list_of_windows.push_back(new main_window_otd(sf::VideoMode(350, 250), "Main window"));
 }
 
 void main_window::run() {

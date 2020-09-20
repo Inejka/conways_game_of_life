@@ -5,7 +5,7 @@
 #include "button.h"
 #include "windows.h"
 
-button::button(int x, int y, int width1, int heigth1, std::string name, std::string texture, void operation(std::vector <windows*>*, windows*),int button_size) {
+button::button(int x, int y, int width1, int heigth1, std::string name, void operation(std::vector <windows*>*, windows*),int button_size) {
     its_textrue.loadFromFile("../files/1.png");
     heigth = heigth1;
     width = width1;

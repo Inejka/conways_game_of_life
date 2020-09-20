@@ -11,6 +11,9 @@ class game_of_life {
     int size_x , size_y ;
     game_of_life();
 public:
+    ~game_of_life();
+    void resize(int,int);
+    void clear();
     const int get_size_x(){return size_x;};
     const int get_size_y(){return size_y;};
     game_of_life(int,int);
