@@ -6,6 +6,12 @@
 
 #IncludeRegexTransform: 
 
+/home/inejka/CLionProjects/conways_game_of_life/include/button.cpp
+button.h
+/home/inejka/CLionProjects/conways_game_of_life/include/button.h
+windows.h
+/home/inejka/CLionProjects/conways_game_of_life/include/windows.h
+
 /home/inejka/CLionProjects/conways_game_of_life/include/button.h
 ../main.h
 /home/inejka/CLionProjects/conways_game_of_life/main.h
@@ -24,10 +30,48 @@ ctime
 ../main.h
 /home/inejka/CLionProjects/conways_game_of_life/main.h
 
+/home/inejka/CLionProjects/conways_game_of_life/include/entry_field.cpp
+entry_field.h
+/home/inejka/CLionProjects/conways_game_of_life/include/entry_field.h
+windows.h
+/home/inejka/CLionProjects/conways_game_of_life/include/windows.h
+button.h
+/home/inejka/CLionProjects/conways_game_of_life/include/button.h
+windows.h
+/home/inejka/CLionProjects/conways_game_of_life/include/windows.h
+
 /home/inejka/CLionProjects/conways_game_of_life/include/entry_field.h
 ../main.h
 /home/inejka/CLionProjects/conways_game_of_life/main.h
 
+/home/inejka/CLionProjects/conways_game_of_life/include/game_of_life.cpp
+game_of_life.h
+/home/inejka/CLionProjects/conways_game_of_life/include/game_of_life.h
+ctime
+-
+iostream
+-
+
+/home/inejka/CLionProjects/conways_game_of_life/include/game_of_life.h
+
+/home/inejka/CLionProjects/conways_game_of_life/include/main_window.cpp
+main_window.h
+/home/inejka/CLionProjects/conways_game_of_life/include/main_window.h
+button.h
+/home/inejka/CLionProjects/conways_game_of_life/include/button.h
+
+/home/inejka/CLionProjects/conways_game_of_life/include/main_window.h
+../main.h
+/home/inejka/CLionProjects/conways_game_of_life/main.h
+windows.h
+/home/inejka/CLionProjects/conways_game_of_life/include/windows.h
+
+/home/inejka/CLionProjects/conways_game_of_life/include/windows.cpp
+windows.h
+/home/inejka/CLionProjects/conways_game_of_life/include/windows.h
+do_button.h
+/home/inejka/CLionProjects/conways_game_of_life/include/do_button.h
+game_of_life.h
 /home/inejka/CLionProjects/conways_game_of_life/include/game_of_life.h
 
 /home/inejka/CLionProjects/conways_game_of_life/include/windows.h
@@ -39,6 +83,12 @@ game_of_life.h
 /home/inejka/CLionProjects/conways_game_of_life/include/game_of_life.h
 entry_field.h
 /home/inejka/CLionProjects/conways_game_of_life/include/entry_field.h
+
+/home/inejka/CLionProjects/conways_game_of_life/main.cpp
+main.h
+/home/inejka/CLionProjects/conways_game_of_life/main.h
+include/main_window.h
+/home/inejka/CLionProjects/conways_game_of_life/include/main_window.h
 
 /home/inejka/CLionProjects/conways_game_of_life/main.h
 iostream
